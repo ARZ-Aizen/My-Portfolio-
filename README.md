@@ -1,3 +1,3 @@
 # My-Portfolio-
 
-my website portfolio using html + tailwind css + js
+my website portfolio using html + tailwind css and js
